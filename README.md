@@ -2,7 +2,7 @@
 
 ## Project Name 
 
-CaesarCipher
+Caesar Cipher
 
 ## Author 
 
@@ -11,6 +11,11 @@ Njuguna Simon
 ## About This Project
 
 Caesar Cipher is a Java command line App which uses alphates,characters and keys for encryption and decreyption to tests various funtions using diffrent methods.
+
+## Behaviour
+# Our application should:
+- Encrypt messages typed in by the user.
+- Decrypt messages typed in by the user.
 
 ## Setup Instructions
 

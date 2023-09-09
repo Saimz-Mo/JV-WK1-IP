@@ -16,7 +16,7 @@ public class Main {
             int keyInput = in.nextInt();
             String output = "";
 
-            
+
         }
 
 

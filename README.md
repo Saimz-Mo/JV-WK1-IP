@@ -13,7 +13,7 @@ Njuguna Simon
 Caesar Cipher is a Java command line App which uses alphates,characters and keys for encryption and decreyption to tests various funtions using diffrent methods.
 
 ## Behaviour
-# Our application should:
+### Our application should:
 - Encrypt messages typed in by the user.
 - Decrypt messages typed in by the user.
 

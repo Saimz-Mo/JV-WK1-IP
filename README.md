@@ -21,9 +21,12 @@ Caesar Cipher is a Java command line App which uses alphates,characters and keys
 ## Technologies List
 
 - Intelli J IDEA
+- Gradle
 - java
 - Git
-
+- Junit
+- Jdk
+- SDK
 
 ## Live Link
 

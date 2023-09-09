@@ -25,14 +25,12 @@ Caesar Cipher is a Java command line App which uses alphates,characters and keys
 - Git
 
 
-
 ## Live Link
 
-https://saimz-mo.github.io/week-three/
+https://github.com/Saimz-Mo/JV-WK1-IP.git
 
 ## Known Bugs
-The site is not responsive enough for some devices.
-mail chimp API does not function properly.
+None
 
 ## License
 
